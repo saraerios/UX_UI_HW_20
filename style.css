@@ -18,7 +18,12 @@ title {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
-    height: 60vh;
+    height: 40vh;
+    padding-bottom: 100px;
+}
+
+.card {
+    padding-bottom: 100px;
 }
 
 .nav-link.active {
@@ -38,3 +43,22 @@ title {
     border-color: #036dc4;
 }
 
+.card {
+    background: rgb(208, 206, 206);
+    background-size: contain;
+    align-items: center;
+}
+.card-title {
+    font-weight: bold;
+}
+
+p {
+    font-size: medium;
+}
+.media {
+    padding-bottom: 100px;
+}
+h3 {
+    padding-left: 10px;
+    font-weight: bold;
+}

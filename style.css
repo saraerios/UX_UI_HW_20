@@ -1,0 +1,40 @@
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+}
+
+.nav-link {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.jumbotron {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 60vh;
+}
+
+.nav-link.active {
+    font-weight: 1000;
+    text-decoration: none;
+
+}
+
+ .btn-primary {
+    background-color:#196794;
+    border-color: #2543d9;
+    border-radius: 0;
+}
+
+.btn-primary:hover {
+    background-color:#12abc6;
+    border-color: #036dc4;
+}
+
